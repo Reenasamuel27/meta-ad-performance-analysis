@@ -166,11 +166,15 @@ Created for learning, portfolio, and demonstration purposes
 
 Not affiliated with Meta Platforms, Inc.
 
-👩‍💻 Author
+PowerBi service URL:https://app.powerbi.com/groups/me/reports/bbd84bbd-1d68-4619-8a6b-0d03613117b7/001778abc6e59d8908d3?experience=power-bi
+Author
 
-Ananya
-Data Analyst | Power BI Developer
-📍 India
+Reena Samuel
+GitHub: https://github.com/Reenasamuel27
+Email: jenisam98896@gmail.com
+
+Power BI Analyst | Data Analyst
+
 
 ⭐ Feedback & Support
 
